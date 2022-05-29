@@ -1,4 +1,4 @@
-package com.app;
+package com.testes;
 
 public class Calculadora {
 	

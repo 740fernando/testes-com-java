@@ -1,10 +1,12 @@
-package com.app;
+package com.testes;
 
 
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.mockito.runners.MockitoJUnitRunner;
+
+import com.testes.Calculadora;
 
 import static org.mockito.Mockito.mock;
 import static org.mockito.Mockito.when;
