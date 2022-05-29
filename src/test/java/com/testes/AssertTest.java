@@ -1,4 +1,4 @@
-package com.app;
+package com.testes;
 
 import static org.junit.Assert.assertArrayEquals;
 import static org.junit.Assert.assertEquals;
@@ -9,6 +9,13 @@ import static org.junit.Assert.assertSame;
 
 import org.junit.Test;
 
+/**
+ * Asserts - São metodos utilitários usados para verificar se um caso de teste teve sucesso ou nao
+ * Esses metodos são fornecidos pela classe Assert no pacote org.junit
+ * 
+ * @author Fernando
+ *
+ */
 public class AssertTest {
 	
 	@Test
